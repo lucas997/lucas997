@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Lucas André
 
 - 👩‍💻 Em busca da primeira oportunidade como desenvolvedor Front-End - In search of the first opportunity as a Front-End Developer
-- 📚 Estudando Javascript - Studying Javascript
+- 📚 Estudando Javascript e Bootstrap - Studying Javascript and Bootstrap
 - 📫 Contato / Contact: lucasgojer@gmail.com
 
  <div>
