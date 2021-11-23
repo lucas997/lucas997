@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Lucas André
 
-- 👩‍💻 Em busca da primeira oportunidade como desenvolvedor Front-End - In search of the first opportunity as a Front-End Developer
-- 📚 Estudando Bootstrap e Javascript - Studying Bootstrap and Javascript
+- 👩‍💻 Graduado em análise e desenvolvimento de sistemas. DBA na datamétrica - Graduated in systems analysis and development. DBA in datametric
+- 📚 Estudando SQL e Javascript - Studying SQL and Javascript
 - 📫 Contato / Contact: lucasgojer@gmail.com
 
  <div>
