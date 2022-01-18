@@ -1,10 +1,10 @@
 ### Olá, Eu sou o Lucas André
 
-- 👨‍🎓💻 Graduado em análise e desenvolvimento de sistemas. - Graduated in systems analysis and development.
+- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas. - raduated in Systems Analysis and Development
 - 📚 Pós-graduando Data Science. - Postgraduate Data Science. 
 - 👩‍💻 DBA PL na datamétrica -  DBA PL in datametrica
 - 📚 Estudando Javascript - Studying Javascript
-- 📫 Contato / Contact: lucasgojer@gmail.com
+- 📫 Contato - Contact: lucasgojer@gmail.com
 
  <div>
   <a href="https://github.com/lucas997">
