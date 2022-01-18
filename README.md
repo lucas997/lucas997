@@ -1,7 +1,9 @@
 ### Olá, Eu sou o Lucas André
 
-- 👩‍💻 Graduado em análise e desenvolvimento de sistemas. DBA na datamétrica - Graduated in systems analysis and development. DBA in datametrica
-- 📚 Estudando SQL e Javascript - Studying SQL and Javascript
+- 👨‍🎓💻 Graduado em análise e desenvolvimento de sistemas. - Graduated in systems analysis and development.
+- 📚 Pós-graduando Data Science. - Postgraduate Data Science. 
+- 👩‍💻 DBA PL na datamétrica -  DBA PL in datametrica
+- 📚 Estudando Javascript - Studying Javascript
 - 📫 Contato / Contact: lucasgojer@gmail.com
 
  <div>
