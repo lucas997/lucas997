@@ -3,7 +3,7 @@
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas. - Graduated in Systems Analysis and Development
 - 📚 Pós-graduando Data Science. - Postgraduate Data Science. 
 - 👩‍💻 DBA PL na datamétrica -  DBA PL in datametrica
-- 📚 Estudando Javascript - Studying Javascript
+- 📚 Estudando Python - Studying Python
 - 📫 Contato - Contact: lucasgojer@gmail.com
 
  <div>
