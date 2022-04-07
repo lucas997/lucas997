@@ -5,8 +5,6 @@
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [https://github.com/lucas997](https://github.com/lucas997)
 
-- 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
-
 - 📫 Você me encontra através do e-mail **lucasgojer@gmail.com**
 
 - 📄 Você pode conhecer um pouco mais sobre mim através do meu perfil no Linkedin [https://www.linkedin.com/in/lucasandre97-12-05/](https://www.linkedin.com/in/lucasandre97-12-05/)
