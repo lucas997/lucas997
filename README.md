@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Javascipt**
 
-- 👨‍💻 Todos os meus projetos estarão disponíveis em [https://github.com/lucas997](https://github.com/lucas997)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/lucas997](https://github.com/lucas997)
 
 - 📫 Você me encontra através do e-mail **lucasgojer@gmail.com**
 
