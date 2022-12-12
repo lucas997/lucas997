@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas André</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados relacionado ao mundo digital</h3>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou aprendendo **Javascipt**
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [https://github.com/lucas997](https://github.com/lucas997)
 
@@ -31,8 +31,8 @@
 
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas. - Graduated in Systems Analysis and Development
 - 📚 Pós-graduando Data Science. - Postgraduate Data Science. 
-- 👩‍💻 DBA PL na datamétrica -  DBA PL in datametrica
-- 📚 Estudando Python - Studying Python
+- 👩‍💻 DBA na Insole Energia Solar -  DBA Insole Solar Energy
+- 📚 Estudando Javascipt - Studying Javascript
 - 📫 Contato - Contact: lucasgojer@gmail.com
 
  <div>
