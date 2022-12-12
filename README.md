@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas André</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados relacionado ao mundo digital</h3>
+<h3 align="center">Apaixonado por Ciência e Análise de Dados e programação Front-End</h3>
 
 - 🌱 Atualmente estou aprendendo **Javascipt**
 
