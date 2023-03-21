@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Lucas André</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de Dados e programação Front-End</h3>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou estudando **Python**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/lucas997](https://github.com/lucas997)
 
